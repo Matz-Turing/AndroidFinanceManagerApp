@@ -12,13 +12,25 @@ Com isso, o usuário obtém uma visão clara de suas finanças.
 
 ## Imagens
 
-![Captura de Tela Principal](img/1.png)
+![Captura de Tela Principal](img/inicial2.png)
 
-*Acima está uma captura de tela inicial da aplicação.*
+*Acima está uma captura de tela inicial da aplicação já com valores.*
 
-![Captura de Tela Principal](img/2.png)
+![Captura de Tela Principal](img/inicial1.png)
 
-*Acima está uma captura de tela detalhada da aplicação com as principais funcionalidades.*
+*Acima está uma captura de tela inicial da aplicação sem os valores.*
+
+![Captura de Tela Principal](img/inserir.png)
+
+*Acima está uma captura de tela com inserção de valores.*
+
+![Captura de Tela Principal](img/excluir.png)
+
+*Acima está uma captura de tela com exclusão de valores.*
+
+![Captura de Tela Principal](img/icone.png)
+
+*Acima está uma captura de tela com o Icone da aplicação.*
 
 ## Tecnologias Utilizadas  
 
