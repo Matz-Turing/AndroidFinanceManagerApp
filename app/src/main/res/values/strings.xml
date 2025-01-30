@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orçamento Pessoal</string>
+    <string name="add_transaction">Adicionar Transação</string>
+    <string name="income">Receita</string>
+    <string name="expense">Despesa</string>
+    <string name="description">Descrição</string>
+    <string name="value">Valor</string>
+    <string name="add">Adicionar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="total_balance">Saldo Total</string>
+</resources>
